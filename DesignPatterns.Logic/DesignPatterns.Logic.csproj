@@ -6,4 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Creational\Factory\01.SimpleFactory\" />
+    <Folder Include="Creational\Factory\02.StaticFactory\" />
+    <Folder Include="Creational\Factory\03.FactoryMethod\" />
+    <Folder Include="Creational\Factory\04.AbstractFactory\" />
+  </ItemGroup>
+
 </Project>
